@@ -44,7 +44,7 @@ Simply copy and paste the link that appears in the CLI into a browser if it does
 Here is a clipping of the account balance after paying candidate on Ganache:
 ![A Screenshot of the account balance on Ganache after paying in ether.](Images/account_bal.png)<br>
 
-Here is a screenshot of transaction conducted through Ganache after sending transaction:
+Here is a screenshot of the contract call conducted through Ganache after clicking the send transaction button:
 ![A Screenshot of the transaction verified on Ganache.](Images/transaction_ver.png)<br>
 
 
